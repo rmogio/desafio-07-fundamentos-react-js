@@ -47,6 +47,8 @@ export const Card = styled.div`
   }
 `;
 
+export const Form = styled.form``;
+
 export const TableContainer = styled.section`
   margin-top: 64px;
 
